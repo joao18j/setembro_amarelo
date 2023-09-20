@@ -1,0 +1,42 @@
+p {
+    text-align: justify;
+}
+#foto01 {
+    width: 100%;
+
+}
+#foto02 {
+    width: 100%;
+}
+#foto03 {
+    width: 50%;
+}
+#foto04 {
+    width: 100%;
+}
+.texto-apresentacao {
+    font-size: 14,5px;
+}
+.texto-apresentacao2 {
+    font-size: 14,5px;
+}
+.texto-barreiras {
+    font-size: 14,5px;
+}
+.texto-campanha {
+    font-size: 15px;
+}
+.imagem {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+.texto-apresentacao {
+    font-size: 15px;
+}
+.texto-definicao {
+    font-size: 14,5px;
+}
+.texto-definicao2 {
+    font-size: 14,5px;
+}
